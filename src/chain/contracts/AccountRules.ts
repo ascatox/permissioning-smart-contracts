@@ -1,5 +1,5 @@
 import { Contract } from 'ethers';
-import AccountRulesAbi from '../abis/AccountRules.json';
+import AccountRulesAbi from '../contracts/AccountRules.json';
 import { AccountIngress } from '../@types/AccountIngress';
 import { AccountRules } from '../@types/AccountRules';
 

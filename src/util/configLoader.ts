@@ -1,5 +1,5 @@
-import AccountIngress from '../chain/abis/AccountIngress.json';
-import NodeIngress from '../chain/abis/NodeIngress.json';
+import AccountIngress from '../chain/contracts/AccountIngress.json';
+import NodeIngress from '../chain/contracts/NodeIngress.json';
 
 export type Config = {
   accountIngressAddress: string;

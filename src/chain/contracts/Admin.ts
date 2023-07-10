@@ -1,5 +1,5 @@
 import { Contract } from 'ethers';
-import AdminAbi from '../abis/Admin.json';
+import AdminAbi from '../contracts/Admin.json';
 import { AccountIngress } from '../@types/AccountIngress';
 import { NodeIngress } from '../@types/NodeIngress';
 import { Admin } from '../@types/Admin';

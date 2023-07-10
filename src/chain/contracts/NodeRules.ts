@@ -1,5 +1,5 @@
 import { Contract } from 'ethers';
-import NodeRulesAbi from '../abis/NodeRules.json';
+import NodeRulesAbi from '../contracts/NodeRules.json';
 import { NodeIngress } from '../@types/NodeIngress';
 import { NodeRules } from '../@types/NodeRules';
 
